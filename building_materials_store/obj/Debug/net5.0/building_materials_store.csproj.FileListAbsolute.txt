@@ -149,3 +149,5 @@ C:\Users\user9\source\repos\building_materials_store\building_materials_store\ob
 C:\Users\user9\source\repos\building_materials_store\building_materials_store\obj\Debug\net5.0\Razor\Views\ApplicationType\Index.cshtml.g.cs
 C:\Users\user9\source\repos\building_materials_store\building_materials_store\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
 C:\Users\user9\source\repos\building_materials_store\building_materials_store\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\user9\source\repos\building_materials_store\building_materials_store\obj\Debug\net5.0\Razor\Views\ApplicationType\Delete.cshtml.g.cs
+C:\Users\user9\source\repos\building_materials_store\building_materials_store\obj\Debug\net5.0\Razor\Views\ApplicationType\Edit.cshtml.g.cs
