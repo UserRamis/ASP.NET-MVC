@@ -95,7 +95,7 @@ namespace building_materials_store.Controllers
             {
                 return NotFound();
             }
-            var obj = _db.Product.Find(id);
+            var obj = _db.Category.Find(id);
             if (obj == null)
             {
                 return NotFound();
@@ -112,12 +112,12 @@ namespace building_materials_store.Controllers
         public IActionResult DeletePost(int id)
         {
 
-            var obj = _db.Product.Find(id);
+            var obj = _db.Category.Find(id);
             if (obj==null)
             {
                 return NotFound(); 
             }
-            _db.Product.Remove(obj);
+            _db.Category.Remove(obj);
             _db.SaveChanges();
             return RedirectToAction("Index");
 
